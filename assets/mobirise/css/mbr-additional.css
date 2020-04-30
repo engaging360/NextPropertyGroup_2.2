@@ -78,7 +78,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -174,6 +173,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -623,7 +625,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -1061,7 +1063,7 @@ body {
 
 /*# sourceMappingURL=style.css.map */
 body {
-  font-family: DIN Next LT Pro Medium;
+  font-family: Rubik;
 }
 .display-1 {
   font-family: 'DINNextLTPro-Bold';
@@ -1999,10 +2001,10 @@ section.lazy-placeholder:after {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -2011,8 +2013,8 @@ section.lazy-placeholder:after {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -2194,8 +2196,8 @@ section.lazy-placeholder:after {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -2780,7 +2782,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -2876,6 +2877,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -3325,7 +3329,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -4278,10 +4282,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -4290,8 +4294,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -4473,8 +4477,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -5059,7 +5063,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -5155,6 +5158,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -5604,7 +5610,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -6493,10 +6499,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -6505,8 +6511,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -6688,8 +6694,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -7274,7 +7280,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -7370,6 +7375,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -7819,7 +7827,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -8360,10 +8368,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -8372,8 +8380,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -8555,8 +8563,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -9141,7 +9149,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -9237,6 +9244,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -9686,7 +9696,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -10395,10 +10405,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -10407,8 +10417,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -10590,8 +10600,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -11176,7 +11186,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -11272,6 +11281,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -11721,7 +11733,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -12541,10 +12553,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -12553,8 +12565,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -12736,8 +12748,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -13322,7 +13334,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -13418,6 +13429,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -13867,7 +13881,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -14419,10 +14433,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -14431,8 +14445,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -14614,8 +14628,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -15200,7 +15214,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -15296,6 +15309,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -15745,7 +15761,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -16451,10 +16467,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -16463,8 +16479,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -16646,8 +16662,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -17232,7 +17248,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -17328,6 +17343,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -17777,7 +17795,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -18459,10 +18477,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -18471,8 +18489,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -18654,8 +18672,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -19240,7 +19258,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -19336,6 +19353,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -19785,7 +19805,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -20402,10 +20422,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -20414,8 +20434,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -20597,8 +20617,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -21183,7 +21203,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -21279,6 +21298,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -21728,7 +21750,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -22456,10 +22478,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -22468,8 +22490,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -22651,8 +22673,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -23237,7 +23259,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -23333,6 +23354,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -23782,7 +23806,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -24560,10 +24584,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rU2D69fWDB .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rU2D69fWDB .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rU2D69fWDB .menu-bottom {
   margin: auto;
@@ -24572,8 +24596,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rU2D69fWDB .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -24755,8 +24779,8 @@ body {
     display: none;
   }
   .cid-rU2D69fWDB .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rU2D69fWDB .navbar-short .menu-content-top {
@@ -25341,7 +25365,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -25437,6 +25460,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -25886,7 +25912,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -26369,7 +26395,7 @@ body {
   transition: font-size 0.25s;
 }
 .cid-rSlHTy2T6V .menu-content-top {
-  background: #004b73;
+  background: #0a1c44;
   max-width: 100%;
   display: none;
   -webkit-justify-content: left;
@@ -26395,10 +26421,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -26407,8 +26433,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -26590,8 +26616,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
@@ -27069,14 +27095,18 @@ body {
 }
 .cid-rV9iAeKjiv .mbr-gallery-item .sidebar_wraper .item-title {
   text-align: center;
+  font-weight: 700;
   padding: 2.5px;
   padding-bottom: 0;
+  font-size: 20px !important;
 }
 .cid-rV9iAeKjiv .mbr-gallery-item .sidebar_wraper .item-subtitle {
   text-align: center;
+  font-size: 20px !important;
 }
 .cid-rV9iAeKjiv .mbr-gallery-item .sidebar_wraper .price-block {
   text-align: center;
+  font-size: 20px !important;
 }
 .cid-rV9iAeKjiv .shop-items .price-block {
   position: relative;
@@ -27546,6 +27576,7 @@ body {
   text-transform: none;
   letter-spacing: -1px;
   word-spacing: 0;
+  font-size: 20px !important;
 }
 .cid-rV9iAeKjiv .mbr-shop .mbr-gallery-filter {
   padding-left: 0;
@@ -27679,12 +27710,12 @@ body {
 .cid-rV9iAeKjiv .mbr-shop .text-modal .price-block span {
   display: inline-block;
   font-weight: 700;
-  padding: 10px 0 20px 0;
+  padding: 10px 0 10px 0;
 }
 .cid-rV9iAeKjiv .mbr-shop .text-modal .card-description {
   padding-top: 20px;
   display: block;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 24px;
   margin-bottom: 50px;
 }
@@ -27746,7 +27777,7 @@ body {
 }
 .cid-rV9iAeKjiv .mbr-shop .shop-items .onsale,
 .cid-rV9iAeKjiv .mbr-shop .bestseller-block .onsale {
-  font-size: 15px !important;
+  font-size: 14px !important;
 }
 .cid-rV9iAeKjiv .mbr-shop .item_overlay {
   position: absolute;
@@ -28083,7 +28114,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -28179,6 +28209,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -28628,7 +28661,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -29137,10 +29170,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVb77k2v9G .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVb77k2v9G .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVb77k2v9G .menu-bottom {
   margin: auto;
@@ -29149,8 +29182,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVb77k2v9G .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -29332,8 +29365,8 @@ body {
     display: none;
   }
   .cid-rVb77k2v9G .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVb77k2v9G .navbar-short .menu-content-top {
@@ -31350,7 +31383,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -31446,6 +31478,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -31895,7 +31930,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -32404,10 +32439,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVfXWlt9pQ .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVfXWlt9pQ .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVfXWlt9pQ .menu-bottom {
   margin: auto;
@@ -32416,8 +32451,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVfXWlt9pQ .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -32599,8 +32634,8 @@ body {
     display: none;
   }
   .cid-rVfXWlt9pQ .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVfXWlt9pQ .navbar-short .menu-content-top {
@@ -34617,7 +34652,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -34713,6 +34747,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -35162,7 +35199,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -35671,10 +35708,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVg3daz6Eh .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVg3daz6Eh .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVg3daz6Eh .menu-bottom {
   margin: auto;
@@ -35683,8 +35720,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVg3daz6Eh .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -35866,8 +35903,8 @@ body {
     display: none;
   }
   .cid-rVg3daz6Eh .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVg3daz6Eh .navbar-short .menu-content-top {
@@ -37884,7 +37921,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -37980,6 +38016,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -38429,7 +38468,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -38938,10 +38977,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVg5dcPReh .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVg5dcPReh .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVg5dcPReh .menu-bottom {
   margin: auto;
@@ -38950,8 +38989,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVg5dcPReh .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -39133,8 +39172,8 @@ body {
     display: none;
   }
   .cid-rVg5dcPReh .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVg5dcPReh .navbar-short .menu-content-top {
@@ -41090,7 +41129,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -41186,6 +41224,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -41635,7 +41676,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -42144,10 +42185,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVggI6Xssz .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVggI6Xssz .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVggI6Xssz .menu-bottom {
   margin: auto;
@@ -42156,8 +42197,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVggI6Xssz .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -42339,8 +42380,8 @@ body {
     display: none;
   }
   .cid-rVggI6Xssz .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVggI6Xssz .navbar-short .menu-content-top {
@@ -44357,7 +44398,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -44453,6 +44493,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -44902,7 +44945,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -45411,10 +45454,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVgjQFLIRI .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgjQFLIRI .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgjQFLIRI .menu-bottom {
   margin: auto;
@@ -45423,8 +45466,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVgjQFLIRI .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -45606,8 +45649,8 @@ body {
     display: none;
   }
   .cid-rVgjQFLIRI .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVgjQFLIRI .navbar-short .menu-content-top {
@@ -47624,7 +47667,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -47720,6 +47762,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -48169,7 +48214,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -48678,10 +48723,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVgonLLC84 .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgonLLC84 .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgonLLC84 .menu-bottom {
   margin: auto;
@@ -48690,8 +48735,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVgonLLC84 .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -48873,8 +48918,8 @@ body {
     display: none;
   }
   .cid-rVgonLLC84 .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVgonLLC84 .navbar-short .menu-content-top {
@@ -50891,7 +50936,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -50987,6 +51031,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -51436,7 +51483,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -51945,10 +51992,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVgu57wlPA .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgu57wlPA .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgu57wlPA .menu-bottom {
   margin: auto;
@@ -51957,8 +52004,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVgu57wlPA .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -52140,8 +52187,8 @@ body {
     display: none;
   }
   .cid-rVgu57wlPA .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVgu57wlPA .navbar-short .menu-content-top {
@@ -54158,7 +54205,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -54254,6 +54300,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -54703,7 +54752,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -55212,10 +55261,11 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVgonLLC84 .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
+  opacity: 0.95;
 }
 .cid-rVgonLLC84 .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgonLLC84 .menu-bottom {
   margin: auto;
@@ -55224,8 +55274,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVgonLLC84 .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -55407,8 +55457,8 @@ body {
     display: none;
   }
   .cid-rVgonLLC84 .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVgonLLC84 .navbar-short .menu-content-top {
@@ -56501,9 +56551,9 @@ body {
 .cid-rVgXujDkCR .mbr-shop .text-modal .card-description {
   padding-top: 10px;
   display: block;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 18px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .cid-rVgXujDkCR .mbr-shop .modal-control-panel {
   padding-right: 0;
@@ -56898,7 +56948,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -56994,6 +57043,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -57443,7 +57495,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -57952,10 +58004,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVlPwowSPS .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVlPwowSPS .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVlPwowSPS .menu-bottom {
   margin: auto;
@@ -57964,8 +58016,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVlPwowSPS .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -58147,8 +58199,8 @@ body {
     display: none;
   }
   .cid-rVlPwowSPS .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVlPwowSPS .navbar-short .menu-content-top {
@@ -60104,7 +60156,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -60200,6 +60251,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -60649,7 +60703,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -61158,10 +61212,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVlSvz6hi1 .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVlSvz6hi1 .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVlSvz6hi1 .menu-bottom {
   margin: auto;
@@ -61170,8 +61224,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVlSvz6hi1 .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -61353,8 +61407,8 @@ body {
     display: none;
   }
   .cid-rVlSvz6hi1 .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVlSvz6hi1 .navbar-short .menu-content-top {
@@ -63310,7 +63364,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -63406,6 +63459,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -63855,7 +63911,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -64364,10 +64420,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVlYy3P1qb .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVlYy3P1qb .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVlYy3P1qb .menu-bottom {
   margin: auto;
@@ -64376,8 +64432,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVlYy3P1qb .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -64559,8 +64615,8 @@ body {
     display: none;
   }
   .cid-rVlYy3P1qb .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVlYy3P1qb .navbar-short .menu-content-top {
@@ -66516,7 +66572,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -66612,6 +66667,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -67061,7 +67119,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -67570,10 +67628,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVm7FDDFBd .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVm7FDDFBd .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVm7FDDFBd .menu-bottom {
   margin: auto;
@@ -67582,8 +67640,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVm7FDDFBd .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -67765,8 +67823,8 @@ body {
     display: none;
   }
   .cid-rVm7FDDFBd .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVm7FDDFBd .navbar-short .menu-content-top {
@@ -69722,7 +69780,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -69818,6 +69875,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -70267,7 +70327,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -70776,10 +70836,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVmHSJgto8 .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVmHSJgto8 .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVmHSJgto8 .menu-bottom {
   margin: auto;
@@ -70788,8 +70848,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVmHSJgto8 .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -70971,8 +71031,8 @@ body {
     display: none;
   }
   .cid-rVmHSJgto8 .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVmHSJgto8 .navbar-short .menu-content-top {
@@ -72928,7 +72988,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -73024,6 +73083,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -73473,7 +73535,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -73982,10 +74044,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVgjQFLIRI .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgjQFLIRI .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVgjQFLIRI .menu-bottom {
   margin: auto;
@@ -73994,8 +74056,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVgjQFLIRI .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -74177,8 +74239,8 @@ body {
     display: none;
   }
   .cid-rVgjQFLIRI .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVgjQFLIRI .navbar-short .menu-content-top {
@@ -74678,7 +74740,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -74774,6 +74835,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -75223,7 +75287,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -75732,10 +75796,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVCf63ZPDd .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCf63ZPDd .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCf63ZPDd .menu-bottom {
   margin: auto;
@@ -75744,8 +75808,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVCf63ZPDd .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -75927,8 +75991,8 @@ body {
     display: none;
   }
   .cid-rVCf63ZPDd .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVCf63ZPDd .navbar-short .menu-content-top {
@@ -77945,7 +78009,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -78041,6 +78104,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -78490,7 +78556,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -78999,10 +79065,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVCuSSLk48 .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCuSSLk48 .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCuSSLk48 .menu-bottom {
   margin: auto;
@@ -79011,8 +79077,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVCuSSLk48 .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -79194,8 +79260,8 @@ body {
     display: none;
   }
   .cid-rVCuSSLk48 .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVCuSSLk48 .navbar-short .menu-content-top {
@@ -81212,7 +81278,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -81308,6 +81373,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -81757,7 +81825,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -82266,10 +82334,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVCziv7m0W .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCziv7m0W .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCziv7m0W .menu-bottom {
   margin: auto;
@@ -82278,8 +82346,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVCziv7m0W .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -82461,8 +82529,8 @@ body {
     display: none;
   }
   .cid-rVCziv7m0W .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVCziv7m0W .navbar-short .menu-content-top {
@@ -84479,7 +84547,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -84575,6 +84642,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -85024,7 +85094,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -85533,10 +85603,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVCPJsBxua .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCPJsBxua .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCPJsBxua .menu-bottom {
   margin: auto;
@@ -85545,8 +85615,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVCPJsBxua .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -85728,8 +85798,8 @@ body {
     display: none;
   }
   .cid-rVCPJsBxua .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVCPJsBxua .navbar-short .menu-content-top {
@@ -87685,7 +87755,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -87781,6 +87850,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -88230,7 +88302,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -88739,10 +88811,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVCUc4k4mP .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCUc4k4mP .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCUc4k4mP .menu-bottom {
   margin: auto;
@@ -88751,8 +88823,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVCUc4k4mP .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -88934,8 +89006,8 @@ body {
     display: none;
   }
   .cid-rVCUc4k4mP .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVCUc4k4mP .navbar-short .menu-content-top {
@@ -90891,7 +90963,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -90987,6 +91058,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -91436,7 +91510,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -91945,10 +92019,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVCWOUHcaL .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCWOUHcaL .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVCWOUHcaL .menu-bottom {
   margin: auto;
@@ -91957,8 +92031,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVCWOUHcaL .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -92140,8 +92214,8 @@ body {
     display: none;
   }
   .cid-rVCWOUHcaL .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVCWOUHcaL .navbar-short .menu-content-top {
@@ -94158,7 +94232,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -94254,6 +94327,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -94703,7 +94779,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -95212,10 +95288,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVDoqnAbvk .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDoqnAbvk .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDoqnAbvk .menu-bottom {
   margin: auto;
@@ -95224,8 +95300,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVDoqnAbvk .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -95407,8 +95483,8 @@ body {
     display: none;
   }
   .cid-rVDoqnAbvk .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVDoqnAbvk .navbar-short .menu-content-top {
@@ -97425,7 +97501,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -97521,6 +97596,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -97970,7 +98048,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -98479,10 +98557,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVDrLN9V8D .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDrLN9V8D .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDrLN9V8D .menu-bottom {
   margin: auto;
@@ -98491,8 +98569,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVDrLN9V8D .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -98674,8 +98752,8 @@ body {
     display: none;
   }
   .cid-rVDrLN9V8D .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVDrLN9V8D .navbar-short .menu-content-top {
@@ -100631,7 +100709,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -100727,6 +100804,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -101176,7 +101256,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -101685,10 +101765,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVDvf92V7J .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDvf92V7J .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDvf92V7J .menu-bottom {
   margin: auto;
@@ -101697,8 +101777,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVDvf92V7J .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -101880,8 +101960,8 @@ body {
     display: none;
   }
   .cid-rVDvf92V7J .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVDvf92V7J .navbar-short .menu-content-top {
@@ -103898,7 +103978,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -103994,6 +104073,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -104443,7 +104525,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -104952,10 +105034,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVDzjQnbZn .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDzjQnbZn .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDzjQnbZn .menu-bottom {
   margin: auto;
@@ -104964,8 +105046,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVDzjQnbZn .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -105147,8 +105229,8 @@ body {
     display: none;
   }
   .cid-rVDzjQnbZn .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVDzjQnbZn .navbar-short .menu-content-top {
@@ -107104,7 +107186,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -107200,6 +107281,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -107649,7 +107733,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -108158,10 +108242,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVDCz3Ud28 .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDCz3Ud28 .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDCz3Ud28 .menu-bottom {
   margin: auto;
@@ -108170,8 +108254,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVDCz3Ud28 .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -108353,8 +108437,8 @@ body {
     display: none;
   }
   .cid-rVDCz3Ud28 .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVDCz3Ud28 .navbar-short .menu-content-top {
@@ -110310,7 +110394,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -110406,6 +110489,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -110855,7 +110941,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -111364,10 +111450,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rVDJgmFNlK .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDJgmFNlK .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rVDJgmFNlK .menu-bottom {
   margin: auto;
@@ -111376,8 +111462,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rVDJgmFNlK .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -111559,8 +111645,8 @@ body {
     display: none;
   }
   .cid-rVDJgmFNlK .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rVDJgmFNlK .navbar-short .menu-content-top {
@@ -113516,7 +113602,6 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -113612,6 +113697,9 @@ section {
 
 .mbr-bold {
   font-weight: 700; }
+
+.mbr-shop .text-modal .card-description {
+    font-size: 14px !important; }
 
 /*! Media  */
 .media-size-item {
@@ -114061,7 +114149,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=DIN Next LT Pro Medium] {
+.note-check a[data-value=Rubik] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -114570,10 +114658,10 @@ body {
   color: #f36f21 !important;
 }
 .cid-rSlHTy2T6V .dropdown-menu {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .dropdown-item:active {
-  background-color: #000000;
+  background-color: #0a1c44;
 }
 .cid-rSlHTy2T6V .menu-bottom {
   margin: auto;
@@ -114582,8 +114670,8 @@ body {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 .cid-rSlHTy2T6V .navbar-dropdown.bg-color.transparent.opened {
   background: #0a1c44;
@@ -114765,8 +114853,8 @@ body {
     display: none;
   }
   .cid-rSlHTy2T6V .navbar-collapse {
-    -webkit-justify-content: flex-end;
-    justify-content: flex-end;
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
 .cid-rSlHTy2T6V .navbar-short .menu-content-top {
