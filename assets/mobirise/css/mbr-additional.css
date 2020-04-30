@@ -78,6 +78,7 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
+  text-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word; }
@@ -622,7 +623,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -1060,7 +1061,7 @@ body {
 
 /*# sourceMappingURL=style.css.map */
 body {
-  font-family: Rubik;
+  font-family: DIN Next LT Pro Medium;
 }
 .display-1 {
   font-family: 'DINNextLTPro-Bold';
@@ -3324,7 +3325,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -5603,7 +5604,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -7818,7 +7819,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -9685,7 +9686,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -11720,7 +11721,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -13866,7 +13867,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -15744,7 +15745,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -17776,7 +17777,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -19784,7 +19785,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -21727,7 +21728,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -23781,7 +23782,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -25885,7 +25886,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -28627,7 +28628,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -31894,7 +31895,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -35161,7 +35162,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -38428,7 +38429,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -41634,7 +41635,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -44901,7 +44902,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -48168,7 +48169,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -51435,7 +51436,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -54702,7 +54703,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -57442,7 +57443,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -60648,7 +60649,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -63854,7 +63855,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -67060,7 +67061,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -70266,7 +70267,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -73472,7 +73473,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -75222,7 +75223,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -78489,7 +78490,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -81756,7 +81757,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -85023,7 +85024,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -88229,7 +88230,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -91435,7 +91436,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -94702,7 +94703,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -97969,7 +97970,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -101175,7 +101176,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -104442,7 +104443,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -107648,7 +107649,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -110854,7 +110855,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
@@ -114060,7 +114061,7 @@ blockquote {
     max-height: 80vh; } }
 
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=DIN Next LT Pro Medium] {
   font-style: normal; }
 
 .mbr-arrow a {
