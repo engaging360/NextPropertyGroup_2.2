@@ -8,3 +8,8 @@
    font-display: swap;
    src: url('DIN Next LT Pro Medium/font.woff');
 }
+@font-face {
+   font-family: 'DIN Next LT Pro Regular';
+   font-display: swap;
+   src: url('DIN Next LT Pro Regular/font.ttf');
+}
