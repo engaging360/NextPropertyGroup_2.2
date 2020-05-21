@@ -42,18 +42,6 @@
         "name": "DINNextLTPro-Bold",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/DINNextLTPro-Bold/font.woff"
-      },
-      {
-        "css": "'DIN Next LT Pro Medium'",
-        "name": "DIN Next LT Pro Medium",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/DIN%20Next%20LT%20Pro%20Medium/font.woff"
-      },
-      {
-        "css": "'DIN Next LT Pro Regular'",
-        "name": "DIN Next LT Pro Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/DIN%20Next%20LT%20Pro%20Regular/font.ttf"
       }
     ],
     "uniqCompNum": 0,
